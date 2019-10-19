@@ -1,7 +1,0 @@
-my_module.form:
- path: '/my_module/myform'
- defaults:
-   _title: 'Application form'
-   _form: '\Drupal\my_module\Form\ResumeForm'
- requirements:
-   _permission: 'access content'
