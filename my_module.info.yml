@@ -1,0 +1,4 @@
+name: My Module
+description: A My Module form to enter user details.
+core: 8.x
+type: module
